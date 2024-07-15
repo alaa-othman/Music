@@ -1,0 +1,144 @@
+.ltd {
+   width: 100%;
+   height: 2500px;
+   background-color: rgb(0, 10, 30);
+}
+#firstdiv {
+   height: 650px;
+   width: 100%;
+   background-image: url(C:/Users/user/OneDrive/Documents/H.W.Ansar/HW5/images/cover3.jpg) ;
+   background-size: cover;
+}
+ .img1 {
+    background-size: cover;
+    width: 100%;
+ }
+ .img2 {
+    width: 180px;
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 10px;
+    float: left;
+ }
+#list {
+    margin: 15px 0px 0px 180px;
+    list-style: none;
+ }
+ #list li {
+    display: inline;
+ }
+ #list li a {
+    text-decoration: none;
+    font-size: 22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-right: 20px;
+ }
+ #list li a:hover {
+   border-radius: 20px;
+   background-color: #190dbe;
+}
+.div3 {
+    height: 370px;
+    width: 600px;
+    text-align: left;
+    margin: 120px 0px 0px 100px;
+    background-color: rgba(20, 200, 250, 0.2);
+    border-radius: 50px;
+}
+.list2 {
+   padding-top: 20px;
+}
+.div3 li {
+   color: white;
+   font-size: 25px;
+   padding-top: 15px;
+}
+#classes h2 {
+   color: rgb(0, 255, 0);
+}
+#classes p {
+   color: gray;
+   font-size: 20px;
+}
+#campuse1 {
+   width: 100%;
+   height: 100%;
+   margin: auto;
+}
+#campuse1 img {
+   width: 100%;
+   height:100%;
+
+}
+#courses {
+   border-right: 2px solid white;
+   height: 100%;
+   text-align: center;
+}
+#courses img {
+   height: 70%;
+   width: 100%;
+}
+#courses1 {
+   height: 100%;
+   text-align: center;
+}
+#courses1 img {
+   height: 70%;
+   width: 100%;
+}
+#table{
+   margin: auto;
+   width: 80%;
+}
+#table th {
+   color: white;
+}
+#table td {
+   color: gray;
+}
+#table tr td:hover {
+   color: black;
+}
+#table tr th:hover {
+   color: black;
+}
+#table tr:hover {
+   background-color: yellow;
+}
+#achievements {
+   border-right: 2px solid white;
+}
+.list3 li{
+   color: white;
+   margin-bottom: 40px;
+   font-size: 25px;
+}
+.list3 {
+   margin-top: 50px;
+}
+footer {
+   height: 320px;
+   background-color:#101010;
+}
+#end a {
+   text-decoration: none;
+   color: white;
+}
+#end h3 {
+   color: white;
+}
+#end p {
+   color: gray;
+   font-size: 15px;
+}
+#end ul li {
+   text-decoration: none;
+   font-size: 18px;
+   color: gray;
+   list-style: none;
+}
+#end {
+   height: 300px;
+}
